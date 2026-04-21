@@ -147,7 +147,7 @@ export const leadership = [
     name: "Tendai R. Masiyiwa",
     role: "Managing Director",
     bio: "Appointed 2022. Previously Area Director for BAT Southern Africa. MBA, Wits Business School.",
-    image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=800&q=80",
   },
   {
     name: "Ngonidzashe Mutasa",
@@ -159,19 +159,19 @@ export const leadership = [
     name: "Farai Chakanyuka",
     role: "Operations Director",
     bio: "Engineer and operations leader. Former Plant Director at BAT Kenya. Leads the Simon Mazorodze complex.",
-    image: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=800&q=80",
   },
   {
     name: "Rufaro Dube",
     role: "People & Culture Director",
     bio: "20 years in human capital across Africa. Chairs the BAT Zimbabwe Diversity, Equity & Inclusion council.",
-    image: "https://images.unsplash.com/photo-1590650153855-d9e808231d41?auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=80",
   },
   {
     name: "Simba Nyathi",
     role: "Legal & External Affairs",
     bio: "Qualified attorney (Z & SA). Leads regulatory, compliance and stakeholder relations for Zimbabwe.",
-    image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?auto=format&fit=crop&w=800&q=80",
   },
 ];
 
@@ -382,7 +382,7 @@ export const stories = [
     tag: "People",
     title: "46% of managers are women.",
     excerpt: "The quiet work of rebalancing leadership, function by function, since 2018.",
-    image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=1400&q=80",
+    image: "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=1400&q=80",
   },
 ];
 

@@ -271,7 +271,7 @@ export default function Contact() {
                   className="block aspect-[5/4] bg-slate-200 relative overflow-hidden group"
                 >
                   <img
-                    src="https://images.unsplash.com/photo-1543357480-c60d40007a3f?auto=format&fit=crop&w=1200&q=80"
+                    src="https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1200&q=80"
                     alt="Map reference for Simon Mazorodze Road, Harare"
                     loading="lazy"
                     onError={(e) => (e.currentTarget.style.display = 'none')}
